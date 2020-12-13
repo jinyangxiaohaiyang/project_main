@@ -1,0 +1,3 @@
+[submodule "peoject_subA"]
+	path = peoject_subA
+	url = https://github.com/jinyangxiaohaiyang/peoject_subA.git
