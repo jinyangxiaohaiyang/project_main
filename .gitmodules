@@ -1,0 +1,6 @@
+[submodule "project_subA"]
+	path = project_subA
+	url = /Users/gaochaogao/workspace/learn/project_subA
+[submodule "peoject_subA"]
+	path = peoject_subA
+	url = https://github.com/jinyangxiaohaiyang/peoject_subA.git
